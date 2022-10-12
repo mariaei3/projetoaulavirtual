@@ -1,7 +1,6 @@
 ## Projeto 
 
-O seguinte projeto é um exercicio de Programação de Soluções Computacionais 
-Com o tema Estrutura Sequencial 
+O seguinte projeto é um exercício de Programação de Soluções Computacionais
 
 ## Folder Structure
 
@@ -20,4 +19,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ## Enunciado do exercício
 
-1_Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+1.Faça um Programa que mostre a mensagem "Alo mundo" na tela.
